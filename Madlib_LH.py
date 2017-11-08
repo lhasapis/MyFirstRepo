@@ -4,7 +4,7 @@ import time
 ### Source: https://i.pinimg.com/736x/79/70/e6/7970e63a364e7f4d70c7b318b9cc9d6d--mad-libs-game-funny-mad-libs.jpg
 
 
-print("Give ma an adjective")
+print("Give me an adjective")
 adj1 = input()
 
 print("Give me a noun")
