@@ -82,4 +82,4 @@ print("Head to your local library or " + place1 + " and browse the shelves until
 print("Or, you could save yourself a whole lot of " + adj5 + " trouble and log on www.bookish.com, the " + adj6 + " new website to " + verb1 + " for books! ")
 print("With all the time you'll save not having to search for " + plrnoun3 + ", you can read " + number1 + " more books!")
 
-time.sleep(15)
+time.sleep(3000)
