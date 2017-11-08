@@ -1,3 +1,5 @@
+import time
+
 ### MAD LIBS ###
 ### Source: https://i.pinimg.com/736x/79/70/e6/7970e63a364e7f4d70c7b318b9cc9d6d--mad-libs-game-funny-mad-libs.jpg
 
@@ -79,3 +81,5 @@ print("You could also choose a book the " + adj4 + " fashioned way. ")
 print("Head to your local library or " + place1 + " and browse the shelves until something catches your " + bodypart2 + ". ")
 print("Or, you could save yourself a whole lot of " + adj5 + " trouble and log on www.bookish.com, the " + adj6 + " new website to " + verb1 + " for books! ")
 print("With all the time you'll save not having to search for " + plrnoun3 + ", you can read " + number1 + " more books!")
+
+time.sleep(15)
