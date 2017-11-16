@@ -73,7 +73,7 @@ number1 = input()
 ### Begin Madlib ###
 
 print("There are many " + adj1 + " ways to choose a/an " + noun1 + " to read. ")
-print("First, you couls ask for a recommendation from your friends and " + plrnoun1 + ". ")
+print("First, you could ask for a recommendation from your friends and " + plrnoun1 + ". ")
 print("Just don't ask Aunt " + female1 + "-she only reads " + adj2 + "books with " + clothing1 + " ripping goddesses on the cover. ")
 print("If your friends and family are no help, try checking out the " + noun2 + " review in the " + city1 + " Times. ")
 print("If the " + plrnoun2 + "featured there are too " + adj3 + " for your taste, try something a little more low-" + bodypart1 + ", like " + letter1 + ": The " + celebrity1 + " Magazine, or " + plrnoun4 + " magazine. ")
@@ -82,4 +82,4 @@ print("Head to your local library or " + place1 + " and browse the shelves until
 print("Or, you could save yourself a whole lot of " + adj5 + " trouble and log on www.bookish.com, the " + adj6 + " new website to " + verb1 + " for books! ")
 print("With all the time you'll save not having to search for " + plrnoun3 + ", you can read " + number1 + " more books!")
 
-time.sleep(15)
+time.sleep(40)
